@@ -36,4 +36,7 @@ React apps are built with tools like Vite/Webpack.
 
 custom-checkout.js → This is the React bundle. 
 
+**React Structure**
+
+First of all 
  
